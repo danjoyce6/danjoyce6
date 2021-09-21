@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danjoyce6
-- 👀 I’m interested in Python, SQL, etc
+- 👀 I’m interested in Python, SQL, Microsoft Excel
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on healthcare projects
 - 📫 How to reach me through github
